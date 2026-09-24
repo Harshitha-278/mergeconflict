@@ -1,1 +1,2 @@
-flavour: strawberry
+flavour: chocolate
+
