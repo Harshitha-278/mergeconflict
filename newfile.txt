@@ -1,1 +1,1 @@
-flavour: none 
+flavour: strawberry
